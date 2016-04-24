@@ -1,0 +1,17 @@
+{
+	"language":"java",
+	"package":"ro.cosmin.class",
+    "type":"class",
+    "name": "Cosmin,Alexandra,Vlad",
+    "attributes": {
+    				"varsta" : "int",
+    				"nume":"String"
+    					},
+
+    "methods":{
+    			"thisIsATestMethod":"void",
+    			"secondTestMethod":"int"
+    },
+    "appName":"shopApp",
+    "modules": "user,products,payment,cart"
+}

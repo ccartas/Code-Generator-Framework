@@ -1,0 +1,8 @@
+package $package
+
+public class $name{
+	$attrs
+	$constructor
+	$getters
+	$setters
+}
